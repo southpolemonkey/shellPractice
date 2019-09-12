@@ -1,4 +1,4 @@
 # Shell Practice
 
-Study Material
-(Cheat Sheet)[https://devhints.io/bash]
+### Study Material
+[Cheat Sheet](https://devhints.io/bash)
